@@ -5,7 +5,7 @@
 @Version: python2.7
 @Author: 'linyue.li'
 @License: personality reserved
-@Site: 'www.dummy11.com'
+@Site: 'www.dummy11.cm'
 @File_name: .py
 @Time : 2017/05/05 15:20
 @Discription: ...
